@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env ts-node
 import inquirer from "inquirer";
 let toDos = [];
 let condition = true;
