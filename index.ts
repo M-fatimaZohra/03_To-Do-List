@@ -10,7 +10,7 @@ while (condition) {
     {
       name: "todo",
       type: "input",
-      message: "•What Would you like to add in your to-dos?",
+      message: "•What Would you like to add in to-dos?",
     },
   ]);
 
