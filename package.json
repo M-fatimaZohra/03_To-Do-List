@@ -1,6 +1,6 @@
 {
   "name": "@fatima_zohra10122007/03_to-do-list",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Here I build a \"To Do List\" by using typescript, node.js, inquirer",
   "main": "index.js",
   "type": "module",
